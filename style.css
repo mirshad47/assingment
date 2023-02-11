@@ -1,0 +1,314 @@
+h1{
+    width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+
+color: #FFFFFF;
+position: absolute;
+
+}
+p{
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 475px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+
+color: #FFFFFF;
+
+}
+
+button{
+    position: absolute;
+width: 160px;
+height: 64px;
+left: 1210px;
+top: 585px;
+border-radius: 5px;
+
+font-weight: 500px;
+font-size: 20px;
+color: #005FAC;
+}
+
+image{
+    position: absolute;
+width: 160px;
+height: 64px;
+left: 1210px;
+
+top: 578px;
+}
+
+h3{
+    position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 1178px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #FFFFFF
+}
+
+.lorem{
+    position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+top: 1296px;
+color: #FFFFFF;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+
+}
+
+
+.fail-discription{
+    position: absolute;
+width: 349.54px;
+height: 198px;
+left: 868.73px;
+top: 1417px;
+color: #FFFFFF;
+}
+
+
+
+
+
+.pln{
+    position: absolute;
+width: 179px;
+height: 47px;
+left: 765px;
+top: 1792px;
+font-family: 'Work Sans';
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+}
+
+.web-d{
+    position: absolute;
+width: 270px;
+height: 35px;
+left: 230px;
+top: 2011.96px;
+
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+.web-icon{
+    position: absolute;
+width: 92.96px;
+height: 92.96px;
+left: 294px;
+top: 1895px;
+
+}
+
+.want-to-start{
+    position: absolute;
+width: 177px;
+height: 29px;
+left: 277px;
+top: 2062.96px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+color: floralwhite;
+}
+
+.jav-title{
+    position: absolute;
+width: 156px;
+height: 35px;
+left: 599px;
+top: 2006px;
+color: #FFFFFF;
+
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+}
+
+.jav-learn{
+    position: absolute;
+width: 181px;
+height: 29px;
+left: 586px;
+top: 2057px;
+color: #FFFFFF;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+}
+
+.jav-icon{
+    position: absolute;
+width: 92.96px;
+height: 92.96px;
+left: 631px;
+top: 1892px;
+
+}
+
+.smoking-habit{
+    position: absolute;
+width: 218px;
+height: 35px;
+left: 853px;
+top: 2006px;
+color: #FFFFFF;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+}
+
+.smoking-end{
+    position: absolute;
+width: 164px;
+height: 29px;
+left: 880px;
+top: 2057px;
+color: #FFFFFF;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+}
+
+.smoking-icon{
+    position: absolute;
+width: 93px;
+height: 93px;
+left: 916px;
+top: 1889px;
+}
+
+.eco{
+    position: absolute;
+width: 174px;
+height: 35px;
+left: 1177px;
+top: 2006px;
+color: #FFFFFF;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+}
+
+.eco-develop{
+    position: absolute;
+width: 214px;
+height: 29px;
+left: 1157px;
+top: 2057px;
+color: #FFFFFF;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+}
+
+.eco-icon{
+    position: absolute;
+width: 92.96px;
+height: 92.96px;
+left: 1218px;
+top: 1889px;
+
+}
+
+.mindset{
+    position: absolute;
+width: 459px;
+height: 94px;
+left: 294px;
+top: 2280.96px;
+color: #FFFFFF;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+
+}
+
+.call{
+position: absolute;
+width: 160px;
+height: 64px;
+left: 294px;
+top: 2415px;
+border-radius: 5px;
+
+
+}
+
+
+
+.watch{
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2221.96px;
+
+
+
+}
+
+.gred{
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2221.96px;
+}

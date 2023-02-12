@@ -323,3 +323,112 @@ height: 300px;
 left: 230px;
 top: 2221.96px;
 }
+
+.footer-future{
+    position: absolute;
+width: 148px;
+height: 53px;
+left: 230px;
+top: 2781.96px;
+
+}
+
+.footer-description{
+    position: absolute;
+width: 485px;
+height: 78px;
+left: 230px;
+top: 2850.96px;
+text-align: justify;
+}
+
+.footer-mail{
+    position: absolute;
+width: 184px;
+height: 26px;
+left: 222px;
+top: 2952.96px;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+}
+
+.footer-phone{
+    position: absolute;
+width: 186px;
+height: 26px;
+left: 210px;
+top: 2994.96px;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+}
+
+.footer-fb-icon{
+    position: absolute;
+width: 47px;
+height: 46px;
+left: 230px;
+top: 3052.96px;
+}
+
+.footer-twitter-icon{
+    position: absolute;
+width: 47px;
+height: 46px;
+left: 294px;
+top: 3052.96px;
+
+}
+
+.footer-youtube-icon{
+    position: absolute;
+width: 46px;
+height: 46px;
+left: 359px;
+top: 3052.96px;
+
+}
+
+.footer-subs{
+    position: absolute;
+width: 123px;
+height: 29px;
+left: 1046px;
+top: 2781.96px;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+color: #FFFFFF;
+}
+
+.form-email{
+    position: absolute;
+width: 146px;
+height: 21px;
+left: 1067px;
+top: 2862.96px;
+color: #FFFFFF;
+
+position: absolute;
+width: 325px;
+height: 100px;
+left: 1046px;
+top: 2850.96px;
+border: 1px solid #FFFFFF;
+border-radius: 8px;
+
+}
+
+.footer-button{
+    position: absolute;
+width: 170.11px;
+height: 64px;
+left: 1046px;
+top: 2990.96px;
+border-radius: 8px;
+
+}

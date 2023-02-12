@@ -71,14 +71,14 @@ color: #FFFFFF
 }
 
 .lorem{
-    position: absolute;
+position: absolute;
 width: 416px;
 height: 104px;
 left: 862px;
-top: 1296px;
+top: 1310px;
+text-align: justify;
 color: #FFFFFF;
 
-font-family: 'Work Sans';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
@@ -91,9 +91,18 @@ line-height: 26px;
     position: absolute;
 width: 349.54px;
 height: 198px;
-left: 868.73px;
-top: 1417px;
+left: 834.73px;
+top: 1432px;
 color: #FFFFFF;
+}
+
+.girl{
+    position: absolute;
+width: 574.84px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+
 }
 
 
@@ -102,14 +111,16 @@ color: #FFFFFF;
 
 .pln{
     position: absolute;
-width: 179px;
-height: 47px;
-left: 765px;
-top: 1792px;
-font-family: 'Work Sans';
+    width: 179px;
+    height: 47px;
+    left: 765px;
+    top: 1710px;
+    font-style: normal;
 font-weight: 700;
 font-size: 40px;
 line-height: 47px;
+text-align: center;
+color: #FFFFFF;
 }
 
 .web-d{
